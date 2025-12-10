@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hardhat-v2-nec-worker-deploy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ffc7753a-e4ca-4b29-a0bc-1d9b3be9acaa",
+			"database_name": "nec-worker-deploy"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
